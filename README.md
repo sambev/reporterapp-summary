@@ -10,9 +10,9 @@ This script will parse the full report and return summarized data that should lo
 Tokens | Yes/No | Location | Mutliple Choice | People:
 ```json
 { 
-   'Who are you with?': {
-       'James': 12,
-       'Sarah': 19
+   "Who are you with?": {
+       "James": 12,
+       "Sarah": 19
        ....
    }
 }
@@ -21,10 +21,10 @@ Tokens | Yes/No | Location | Mutliple Choice | People:
 Number | Note:
 ```json
 {
-   'How happy are you?': [
+   "How happy are you?": [
        {
-            'value': 8,
-            'date': '2014-05-14T23:16:25-0600',
+            "value": 8,
+            "date": "2014-05-14T23:16:25-0600",
        },
        .....
    ]
