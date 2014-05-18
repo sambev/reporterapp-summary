@@ -1,11 +1,12 @@
-summe
+ReporterApp Summary
 =====
 
 Summarize exported json reports from the ReporterApp.
 
-Usage should be as simple as: `./summe exported-report.json`
+Usage should be as simple as: `./summarize exported-report.json`
 
-This script will parse the full report and return summarized data that should look like this:
+This script will parse the full report and write summarized data in json
+format.  The data is structed like this:
 
 Tokens | Yes/No | Location | Mutliple Choice | People:
 ```json
