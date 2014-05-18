@@ -29,10 +29,24 @@
  * @TODO. Read the report and send it through the parsing script below.
  */
 
+var fs = require('fs');
+
+var reports;
 var nice_responses = {};
-nice_responses.wtfs = [];
-reports.forEach(function(rep) {
-    rep.snapshots.forEach(function(snp) {
+
+try {
+    console.log('Reading file...');
+    data = fs.readFileSync('./reporter-export.json', 'utf-8');
+    console.log('File read success!');
+} catch (err) {
+    console.log('Error reading file: ' + err);
+    process.exit(1);
+}
+
+try {
+    console.log('Parsing file... this might take a while...');
+    report = JSON.parse(data);
+    report.snapshots.forEach(function(snp) {
         var date = snp.date;
         snp.responses.forEach(function(resp) {
             var question = resp.questionPrompt;
@@ -104,4 +118,18 @@ reports.forEach(function(rep) {
             }
         });
     });
-});
+    console.log('File parse success!');
+} catch (err) {
+    console.log('Error parsing file: ' + err);
+    process.exit(1)
+}
+
+try {
+    console.log('Writing report-summary.json file...');
+    fs.writeFileSync('./report-summary.json', JSON.stringify(nice_responses), 'utf-8');
+    console.log('File write success!');
+    process.exit(0);
+} catch (err) {
+    console.log('Error writing file: ' + err);
+    process.exit(1);
+}
