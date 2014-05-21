@@ -1,0 +1,149 @@
+#!/usr/local/bin/node
+
+/**
+ * ReporterApp data processing script written in javascript.
+ * Usage should as simple as:
+ * ./parse_report <exported-report.json>
+ * This script will parse the full report and return summarized data that
+ * should look like this:
+ * Tokens | Yes/No | Location | Mutliple Choice | People:
+ * {
+ *     'Who are you with?': {
+ *         'James': 12,
+ *         'Sarah': 19
+ *         ....
+ *     }
+ * }
+ *
+ * Number | Note:
+ * {
+ *     'How happy are you?': [
+ *         {
+ *              'value': 8,
+ *              'date': '2014-05-14T23:16:25-0600',
+ *         },
+ *         .....
+ *     ]
+ * }
+ *
+ * @TODO. Read the report and send it through the parsing script below.
+ */
+
+var fs = require('fs');
+
+var reports;
+var summary = {};
+
+try {
+    console.log('Reading file...');
+    data = fs.readFileSync('./reporter-export.json', 'utf-8');
+    console.log('File read success!');
+} catch (err) {
+    console.log('Error reading file: ' + err);
+    process.exit(1);
+}
+
+try {
+    console.log('Parsing file... this might take a while...');
+    report = JSON.parse(data);
+    report.snapshots.forEach(function(snp) {
+        var date = snp.date;
+        snp.responses.forEach(function(resp) {
+            var question = resp.questionPrompt;
+            if (!summary[question]) {
+                summary[question] = {};
+            }
+            //=================================================================
+            // NUMERIC RESPONSES
+            //=================================================================
+            if (resp.numericResponse) {
+                if (!summary[question].entries) {
+                    summary[question].entries = [];
+                    summary[question].type = 'numeric';
+                }
+                var new_entry = {
+                    'value': resp.numericResponse,
+                    'date': date
+                }
+                summary[question].entries.push(new_entry);
+
+            //=================================================================
+            // TOKEN RESPONSES
+            //=================================================================
+            } else if (resp.tokens) {
+                for (var i = resp.tokens.length - 1; i >= 0; i--) {
+                    var token = resp.tokens[i];
+                    if (token && summary[question][token]) {
+                        summary[question][token]++;
+                    } else {
+                        summary[question][token] = 1;
+                        summary[question].type = 'token';
+                    }
+                }
+
+            //=================================================================
+            // LOCATION RESPONSES
+            //=================================================================
+            } else if (resp.locationResponse) {
+                var loc_name = resp.locationResponse.text;
+                if (summary[question][loc_name]) {
+                    summary[question][loc_name]++;
+                } else {
+                    summary[question][loc_name] = 1;
+                    summary[question].type = 'location';
+                }
+
+            //=================================================================
+            // TEXT REPSONSES
+            //=================================================================
+            } else if (resp.textResponse) {
+                if (!summary[question].entries) {
+                    summary[question].entries = [];
+                    summary[question].type = 'text';
+                }
+                var new_entry = {
+                    'value': resp.textResponse,
+                    'date': date
+                }
+                summary[question].entries.push(new_entry);
+
+            //=================================================================
+            // MULTIPLE CHOICE RESPONSES
+            //=================================================================
+            } else if (resp.answeredOptions) {
+                for (var i = resp.answeredOptions.length - 1; i >= 0; i--) {
+                    var option = resp.answeredOptions[i];
+                    if (option && summary[question][option]) {
+                        summary[question][option]++;
+                    } else {
+                        summary[question][option] = 1;
+                        summary[question].type = 'choice'
+                    }
+                }
+            }
+        });
+    });
+
+    summaries = [];
+    for (var key in summary) {
+        summaries.push({
+            question: key,
+            answers: summary[key],
+            type: summary[key].type
+        })
+    }
+    console.log('File parse success!');
+} catch (err) {
+    console.log('Error parsing file: ' + err);
+    process.exit(1)
+}
+
+try {
+    console.log('Writing report-summary.json file...');
+    fs.writeFileSync('./report-summary.json', JSON.stringify(summaries), 'utf-8');
+    console.log('File write success!');
+    process.exit(0);
+} catch (err) {
+    console.log('Error writing file: ' + err);
+    process.exit(1);
+}
