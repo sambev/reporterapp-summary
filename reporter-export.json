@@ -10869,36 +10869,6 @@
       "photoSet" : {
         "photos" : [
           {
-            "brightnessValue" : 0.9451124,
-            "meteringMode" : 5,
-            "focalLengthIn35mm" : 33,
-            "sceneCaptureType" : 0,
-            "exposureMode" : 0,
-            "resolutionUnit" : 2,
-            "make" : "Apple",
-            "software" : "7.0.4",
-            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=19442DF9-FC11-4D23-B68A-AED1B3CD28DF&ext=JPG",
-            "isoSpeed" : 200,
-            "exposureTime" : 0.05,
-            "shutterSpeed" : 4.321957,
-            "depth" : 8,
-            "latitude" : 0,
-            "fNumber" : 2.4,
-            "sensingMode" : 2,
-            "longitude" : 0,
-            "apertureValue" : 2.526069,
-            "focalLength" : 4.12,
-            "model" : "iPhone 5",
-            "altitude" : 0,
-            "exposureProgram" : 2,
-            "pixelWidth" : 3264,
-            "dateTime" : "2014-02-16T20:59:22-0600",
-            "flash" : 16,
-            "orientation" : 1,
-            "pixelHeight" : 2448,
-            "whiteBalance" : 0
-          },
-          {
             "brightnessValue" : 0.8332196,
             "meteringMode" : 5,
             "focalLengthIn35mm" : 33,
@@ -10923,6 +10893,36 @@
             "exposureProgram" : 2,
             "pixelWidth" : 3264,
             "dateTime" : "2014-02-16T20:59:12-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
+            "brightnessValue" : 0.9451124,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 33,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.0.4",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=19442DF9-FC11-4D23-B68A-AED1B3CD28DF&ext=JPG",
+            "isoSpeed" : 200,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321957,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2014-02-16T20:59:22-0600",
             "flash" : 16,
             "orientation" : 1,
             "pixelHeight" : 2448,
@@ -66308,6 +66308,36 @@
       "photoSet" : {
         "photos" : [
           {
+            "brightnessValue" : 10.60966,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 33,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.1",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=893B7E76-C368-43FC-B324-2DE8BE48866D&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.000461042,
+            "shutterSpeed" : 11.08294,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2014-04-12T11:09:26-0600",
+            "flash" : 16,
+            "orientation" : 1,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          },
+          {
             "brightnessValue" : 10.71672,
             "meteringMode" : 5,
             "focalLengthIn35mm" : 33,
@@ -66392,36 +66422,6 @@
             "exposureProgram" : 2,
             "pixelWidth" : 2448,
             "dateTime" : "2014-04-12T11:09:37-0600",
-            "flash" : 16,
-            "orientation" : 1,
-            "pixelHeight" : 2448,
-            "whiteBalance" : 0
-          },
-          {
-            "brightnessValue" : 10.60966,
-            "meteringMode" : 5,
-            "focalLengthIn35mm" : 33,
-            "sceneCaptureType" : 0,
-            "exposureMode" : 0,
-            "resolutionUnit" : 2,
-            "make" : "Apple",
-            "software" : "7.1",
-            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=893B7E76-C368-43FC-B324-2DE8BE48866D&ext=JPG",
-            "isoSpeed" : 50,
-            "exposureTime" : 0.000461042,
-            "shutterSpeed" : 11.08294,
-            "depth" : 8,
-            "latitude" : 0,
-            "fNumber" : 2.4,
-            "sensingMode" : 2,
-            "longitude" : 0,
-            "apertureValue" : 2.526069,
-            "focalLength" : 4.12,
-            "model" : "iPhone 5",
-            "altitude" : 0,
-            "exposureProgram" : 2,
-            "pixelWidth" : 3264,
-            "dateTime" : "2014-04-12T11:09:26-0600",
             "flash" : 16,
             "orientation" : 1,
             "pixelHeight" : 2448,
@@ -89751,6 +89751,6082 @@
           "questionPrompt" : "Who are you with?"
         }
       ]
+    },
+    {
+      "battery" : 0.8,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-17T13:36:04-0600",
+        "longitude" : -111.663477094948,
+        "latitude" : 40.23533999923639,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 100 N",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Timp",
+          "subThoroughfare" : "210",
+          "region" : "<+40.23572909,-111.66307509> radius 90.54",
+          "locality" : "Provo",
+          "name" : "210 W 100 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0.4600000083446503
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -39.60234,
+        "peak" : -34.67747
+      },
+      "sectionIdentifier" : "1-2014-5-17",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.9,
+        "windDirection" : "SE",
+        "tempF" : 79.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 26,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.97,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4.7,
+        "windDegrees" : 140,
+        "tempC" : 26.5,
+        "weather" : "Scattered Clouds",
+        "uv" : 7.8,
+        "dewpointC" : -1,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-17T13:36:03-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Reading"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Juice 'n Java",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-10T13:32:28-0600",
+              "longitude" : -111.663428,
+              "latitude" : 40.235277,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bd78f6f09ecb713663d477c"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Yoshi Elguera",
+            "April Jnj",
+            "Lauren JnJ"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.8,
+      "location" : {
+        "verticalAccuracy" : 24.73291905853917,
+        "timestamp" : "2014-05-17T13:43:04-0600",
+        "longitude" : -111.6612328309062,
+        "latitude" : 40.23853073953377,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "N Freedom Blvd",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Central Business District",
+          "subThoroughfare" : "350",
+          "region" : "<+40.23848877,-111.66097834> radius 31.43",
+          "locality" : "Provo",
+          "name" : "350 N Freedom Blvd",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -37.20366,
+        "peak" : -24.19957
+      },
+      "sectionIdentifier" : "1-2014-5-17",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.9,
+        "windDirection" : "SE",
+        "tempF" : 79.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 26,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.97,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4.7,
+        "windDegrees" : 140,
+        "tempC" : 26.5,
+        "weather" : "Scattered Clouds",
+        "uv" : 7.8,
+        "dewpointC" : -1,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-17T13:42:59-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Grocery shopping"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Smith's",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-03-01T18:34:46-0600",
+              "longitude" : -111.6612603071191,
+              "latitude" : 40.23838461378087,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b872706f964a52079b331e3"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-17T14:36:13-0600",
+        "longitude" : -111.6429360276922,
+        "latitude" : 40.21934974606685,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -71.28828,
+        "peak" : -58.39743
+      },
+      "sectionIdentifier" : "1-2014-5-17",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SSE",
+        "tempF" : 82.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 27,
+        "visibilityMi" : 15,
+        "feelslikeF" : 82.2,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 159,
+        "tempC" : 27.9,
+        "weather" : "Scattered Clouds",
+        "uv" : 8.1,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-17T14:36:09-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Relaxing"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-17T16:55:27-0600",
+        "longitude" : -111.7576911953387,
+        "latitude" : 40.39945343047417,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 9200 N",
+          "postalCode" : "84062",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Manila",
+          "subThoroughfare" : "1178",
+          "region" : "<+40.39956781,-111.75767263> radius 39.16",
+          "locality" : "Pleasant Grove",
+          "name" : "1178 W 9200 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.47449,
+        "peak" : -35.90014
+      },
+      "sectionIdentifier" : "1-2014-5-17",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSE",
+        "tempF" : 82.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 27,
+        "visibilityMi" : 15,
+        "feelslikeF" : 82.2,
+        "stationID" : "KUTCEDAR10",
+        "latitude" : 40.395943,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.87,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.741203,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 162,
+        "tempC" : 27.9,
+        "weather" : "Mostly Cloudy",
+        "uv" : 3,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-17T16:55:26-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "BBQ prep"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Parents",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-02-24T19:59:58-0600",
+              "longitude" : -111.7577999086229,
+              "latitude" : 40.39945648986883,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Mom",
+            "Dad",
+            "DJ",
+            "Lane"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.55,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-17T19:37:49-0600",
+        "longitude" : -111.7576633674202,
+        "latitude" : 40.39961126171089,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 9200 N",
+          "postalCode" : "84062",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Manila",
+          "subThoroughfare" : "1178",
+          "region" : "<+40.39956781,-111.75767263> radius 39.16",
+          "locality" : "Pleasant Grove",
+          "name" : "1178 W 9200 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.28906,
+        "peak" : -34.64138
+      },
+      "sectionIdentifier" : "1-2014-5-17",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NNW",
+        "tempF" : 74.59999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 23.7,
+        "visibilityMi" : 15,
+        "feelslikeF" : 74.59999999999999,
+        "stationID" : "KUTCEDAR10",
+        "latitude" : 40.395943,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.84,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "23%",
+        "longitude" : -111.741203,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 330,
+        "tempC" : 23.7,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 1,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-17T19:37:48-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "BBQ"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Parents",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-02-24T19:59:58-0600",
+              "longitude" : -111.7577999086229,
+              "latitude" : 40.39945648986883,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Mom",
+            "Dad",
+            "DJ",
+            "Lane",
+            "Deanna Dillard",
+            "Brynn Park",
+            "Michelle Warnick",
+            "George Ady",
+            "Sam Ady",
+            "Cameron Wengert",
+            "Marcos",
+            "Hoost",
+            "J Babes"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.25,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-18T01:05:25-0600",
+        "longitude" : -111.6429839472096,
+        "latitude" : 40.21934227465339,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.2938,
+        "peak" : -39.44439
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SSE",
+        "tempF" : 61.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 16.5,
+        "visibilityMi" : 10,
+        "feelslikeF" : 61.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.81,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "34%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 152,
+        "tempC" : 16.5,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-18T01:05:24-0600",
+      "responses" : [
+        {
+          "numericResponse" : "5",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "numericResponse" : "10000",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "15",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "5.2",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "Node command line basics.  Reporter app export.  I am crazy out of shape."
+        },
+        {
+          "questionPrompt" : "What have you watched?"
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-18T09:20:11-0600",
+        "longitude" : -111.6429587119949,
+        "latitude" : 40.21935524760588,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -45.20754,
+        "peak" : -40.09703
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "NE",
+        "tempF" : 66.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 19.3,
+        "visibilityMi" : 15,
+        "feelslikeF" : 66.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.79,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "33%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 41,
+        "tempC" : 19.3,
+        "weather" : "Partly Cloudy",
+        "uv" : 2.8,
+        "dewpointC" : 3,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T09:20:09-0600",
+      "responses" : [
+        {
+          "numericResponse" : "208.8",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-18T11:25:50-0600",
+        "longitude" : -111.6430028694975,
+        "latitude" : 40.21938726933318,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.20775,
+        "peak" : -23.24621
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.9,
+        "windDirection" : "WNW",
+        "tempF" : 77.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 25.3,
+        "visibilityMi" : 15,
+        "feelslikeF" : 77.5,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.77,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "19%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4.7,
+        "windDegrees" : 294,
+        "tempC" : 25.3,
+        "weather" : "Partly Cloudy",
+        "uv" : 6.6,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T11:25:45-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Laundry"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.8,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-18T13:04:48-0600",
+        "longitude" : -111.6428861807108,
+        "latitude" : 40.21937116782832,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.46069,
+        "peak" : -38.64849
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "West",
+        "tempF" : 79.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 13,
+        "feelslikeC" : 26,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.3,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 8.1,
+        "pressureIn" : 29.76,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "18%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 6.4,
+        "windDegrees" : 278,
+        "tempC" : 26.3,
+        "weather" : "Partly Cloudy",
+        "uv" : 8.300000000000001,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T13:04:43-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Personal project"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.8,
+      "location" : {
+        "verticalAccuracy" : 4,
+        "timestamp" : "2014-05-18T13:40:22-0600",
+        "longitude" : -111.6429407616254,
+        "latitude" : 40.21915450230261,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1105",
+          "region" : "<+40.21915985,-111.64298610> radius 11.87",
+          "locality" : "Provo",
+          "name" : "1105 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -38.80048,
+        "peak" : -36.56857
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "West",
+        "tempF" : 79.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 13,
+        "feelslikeC" : 26,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.3,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 8.1,
+        "pressureIn" : 29.76,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "18%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 6.4,
+        "windDegrees" : 278,
+        "tempC" : 26.3,
+        "weather" : "Partly Cloudy",
+        "uv" : 8.300000000000001,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T13:40:20-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Relaxing"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-18T14:54:49-0600",
+        "longitude" : -111.6427389253971,
+        "latitude" : 40.21925022363683,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0.239999994635582
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.78397,
+        "peak" : -38.77134
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SE",
+        "tempF" : 79.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.7,
+        "feelslikeC" : 26.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.2,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2.9,
+        "pressureIn" : 29.73,
+        "pressureMb" : 1007,
+        "relativeHumidity" : "15%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 127,
+        "tempC" : 26.2,
+        "weather" : "Scattered Clouds",
+        "uv" : 7,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T14:54:49-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Inspiration searching"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.65,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-18T15:31:17-0600",
+        "longitude" : -111.6428804957416,
+        "latitude" : 40.21912851840278,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1105",
+          "region" : "<+40.21910496,-111.64289600> radius 5.13",
+          "locality" : "Provo",
+          "name" : "1105 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.0504,
+        "peak" : -39.14505
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SE",
+        "tempF" : 79.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.7,
+        "feelslikeC" : 26.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.2,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2.9,
+        "pressureIn" : 29.73,
+        "pressureMb" : 1007,
+        "relativeHumidity" : "15%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 127,
+        "tempC" : 26.2,
+        "weather" : "Scattered Clouds",
+        "uv" : 7,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T15:31:17-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Personal project"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.4,
+      "location" : {
+        "verticalAccuracy" : 16.87642047696236,
+        "timestamp" : "2014-05-18T18:56:45-0600",
+        "longitude" : -111.6774893089218,
+        "latitude" : 40.27775521452527,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 750 E",
+          "postalCode" : "84097",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Hillcrest",
+          "subThoroughfare" : "1050",
+          "region" : "<+40.27752126,-111.67761787> radius 75.12",
+          "locality" : "Orem",
+          "name" : "1050 S 750 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -30.34183,
+        "peak" : -20.29988
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "SW",
+        "tempF" : 69.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 22.5,
+        "feelslikeC" : 20.8,
+        "visibilityMi" : 15,
+        "feelslikeF" : 69.40000000000001,
+        "stationID" : "KUTOREM10",
+        "latitude" : 40.322842,
+        "windGustMPH" : 14,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "24%",
+        "longitude" : -111.672821,
+        "precipTodayMetric" : 0,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 215,
+        "tempC" : 20.8,
+        "weather" : "Scattered Clouds",
+        "uv" : 1,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T18:56:45-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Movie"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Cinemark University Mall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-16T18:57:24-0600",
+              "longitude" : -111.6775488853455,
+              "latitude" : 40.27815057101984,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b3966adf964a5200b5c25e3"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Sean Brown (null)",
+            "Katie Christiansen",
+            "Cameron Larsen"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.4,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-18T18:58:28-0600",
+        "longitude" : -111.6774988454875,
+        "latitude" : 40.27777082756187,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 750 E",
+          "postalCode" : "84097",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Hillcrest",
+          "subThoroughfare" : "1050",
+          "region" : "<+40.27752126,-111.67761787> radius 75.12",
+          "locality" : "Orem",
+          "name" : "1050 S 750 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0.2800000011920929
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -33.22137,
+        "peak" : -28.83584
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "SW",
+        "tempF" : 69.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 22.5,
+        "feelslikeC" : 20.8,
+        "visibilityMi" : 15,
+        "feelslikeF" : 69.40000000000001,
+        "stationID" : "KUTOREM10",
+        "latitude" : 40.322842,
+        "windGustMPH" : 14,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "24%",
+        "longitude" : -111.672821,
+        "precipTodayMetric" : 0,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 215,
+        "tempC" : 20.8,
+        "weather" : "Scattered Clouds",
+        "uv" : 1,
+        "dewpointC" : 0,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T18:58:28-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Dinner"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Wing Nutz",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-16T18:57:24-0600",
+              "longitude" : -111.677526,
+              "latitude" : 40.277933,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b5a0f59f964a520aeaa28e3"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Sean Brown (null)",
+            "Katie Christiansen",
+            "Cameron Larsen",
+            "Dean Cheesman",
+            "natalie landrey"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.2,
+      "location" : {
+        "verticalAccuracy" : 24,
+        "timestamp" : "2014-05-18T21:02:49-0600",
+        "longitude" : -111.6429966689196,
+        "latitude" : 40.22062904670855,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1015",
+          "region" : "<+40.22063723,-111.64278859> radius 23.73",
+          "locality" : "Provo",
+          "name" : "1015 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -120,
+        "peak" : -120
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ENE",
+        "tempF" : 66,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.9,
+        "visibilityMi" : 15,
+        "feelslikeF" : 66,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "25%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 57,
+        "tempC" : 18.9,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T21:02:42-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Walking"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-18T21:57:37-0600",
+        "longitude" : -111.6429634647893,
+        "latitude" : 40.21933173915765,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.12047,
+        "peak" : -36.92369
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ENE",
+        "tempF" : 66,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.9,
+        "visibilityMi" : 15,
+        "feelslikeF" : 66,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "25%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 57,
+        "tempC" : 18.9,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T21:57:37-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Personal project"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.3,
+      "location" : {
+        "verticalAccuracy" : 4,
+        "timestamp" : "2014-05-18T22:39:52-0600",
+        "longitude" : -111.642873538762,
+        "latitude" : 40.21937008485218,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 50,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.25584,
+        "peak" : -38.39802
+      },
+      "sectionIdentifier" : "1-2014-5-18",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ENE",
+        "tempF" : 66,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.9,
+        "visibilityMi" : 15,
+        "feelslikeF" : 66,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "25%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 57,
+        "tempC" : 18.9,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-18T22:39:51-0600",
+      "responses" : [
+        {
+          "numericResponse" : "6",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "questionPrompt" : "What have you watched?",
+          "tokens" : [
+            "Godzilla"
+          ]
+        },
+        {
+          "numericResponse" : "11611",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "77",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "5.26",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What have you read?",
+          "tokens" : [
+            "Python for data analysis"
+          ]
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "Python sorting dictionaries.  Structured time is satisfying.  Exercise changes affects everything."
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-19T06:26:37-0600",
+        "longitude" : -111.6429344435502,
+        "latitude" : 40.21935032225448,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.97107,
+        "peak" : -39.05212
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "West",
+        "tempF" : 50.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 10.3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 50.5,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.84,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "67%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 269,
+        "tempC" : 10.3,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 4,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-19T06:26:36-0600",
+      "responses" : [
+        {
+          "numericResponse" : "207.8",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-19T07:37:12-0600",
+        "longitude" : -111.6428455576591,
+        "latitude" : 40.21937318839401,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -59.72488,
+        "peak" : -43.39314
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SW",
+        "tempF" : 52.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 11.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 52.2,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.85,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "72%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 216,
+        "tempC" : 11.2,
+        "weather" : "Clear",
+        "uv" : 0.5,
+        "dewpointC" : 6,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-19T07:37:08-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Running"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.95,
+      "location" : {
+        "verticalAccuracy" : 30.5967563480745,
+        "timestamp" : "2014-05-19T08:32:18-0600",
+        "longitude" : -111.6579523869792,
+        "latitude" : 40.21070987887245,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -38.96311,
+        "peak" : -34.05249
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "WNW",
+        "tempF" : 56.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 13.7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 56.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.85,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "58%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 300,
+        "tempC" : 13.7,
+        "weather" : "Clear",
+        "uv" : 1.6,
+        "dewpointC" : 6,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-19T08:32:18-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 141.75,
+        "timestamp" : "2014-05-19T10:03:13-0600",
+        "longitude" : -111.6578982806532,
+        "latitude" : 40.21070353951342,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -48.59262,
+        "peak" : -43.64049
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SSE",
+        "tempF" : 61.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 16.3,
+        "visibilityMi" : 15,
+        "feelslikeF" : 61.3,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "51%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 161,
+        "tempC" : 16.3,
+        "weather" : "Partly Cloudy",
+        "uv" : 4,
+        "dewpointC" : 6,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-19T10:03:07-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Meeting"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-19T13:48:45-0600",
+        "longitude" : -111.6635019053814,
+        "latitude" : 40.23533015050016,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 100 N",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Timp",
+          "subThoroughfare" : "210",
+          "region" : "<+40.23572909,-111.66307509> radius 90.54",
+          "locality" : "Provo",
+          "name" : "210 W 100 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -27.62398,
+        "peak" : -21.1302
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SW",
+        "tempF" : 69.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 20.8,
+        "visibilityMi" : 15,
+        "feelslikeF" : 69.40000000000001,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.88,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "35%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 227,
+        "tempC" : 20.8,
+        "weather" : "Partly Cloudy",
+        "uv" : 8.300000000000001,
+        "dewpointC" : 5,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-19T13:48:44-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Lunch"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Black Sheep Cafe",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-08T11:35:39-0600",
+              "longitude" : -111.6585179652847,
+              "latitude" : 40.23415068466014,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4f35dcf8e4b0a8273d32c1c4"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "natalie landrey",
+            "Marcos"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.65,
+      "location" : {
+        "verticalAccuracy" : 51.58900833753252,
+        "timestamp" : "2014-05-19T14:45:54-0600",
+        "longitude" : -111.6577416652673,
+        "latitude" : 40.21057937814627,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -38.4941,
+        "peak" : -33.88221
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.9,
+        "windDirection" : "SW",
+        "tempF" : 71.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 16.3,
+        "feelslikeC" : 21.8,
+        "visibilityMi" : 15,
+        "feelslikeF" : 71.2,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 10.1,
+        "pressureIn" : 29.88,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "29%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4.7,
+        "windDegrees" : 221,
+        "tempC" : 21.8,
+        "weather" : "Scattered Clouds",
+        "uv" : 7.9,
+        "dewpointC" : 3,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-19T14:45:54-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.25,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-19T19:37:58-0600",
+        "longitude" : -111.6650580895242,
+        "latitude" : 40.22914979610614,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 300 S",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Franklin",
+          "subThoroughfare" : "369",
+          "region" : "<+40.22937455,-111.66514562> radius 37.41",
+          "locality" : "Provo",
+          "name" : "369 W 300 S",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "firedNotification" : {
+        "missed" : 1,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.87746,
+        "peak" : -32.10976
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "NNW",
+        "tempF" : 70.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 11.1,
+        "feelslikeC" : 21.3,
+        "visibilityMi" : 15,
+        "feelslikeF" : 70.3,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 6.9,
+        "pressureIn" : 29.82,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "27%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 335,
+        "tempC" : 21.3,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : 2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-19T19:37:45-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Deans house",
+            "location" : {
+              "verticalAccuracy" : 4,
+              "timestamp" : "2014-02-07T23:00:49-0600",
+              "longitude" : -111.6653999873546,
+              "latitude" : 40.22898748055122,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Dean Cheesman",
+            "Sean Brown (null)",
+            "natalie landrey",
+            "Tiffany (dean)"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "BBQ"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0,
+      "location" : {
+        "verticalAccuracy" : 25.08213436602772,
+        "timestamp" : "2014-05-19T21:20:16-0600",
+        "longitude" : -111.6690658454323,
+        "latitude" : 40.22847221784989,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 400 S",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Franklin",
+          "subThoroughfare" : "504–598",
+          "locality" : "Provo",
+          "name" : "504–598 W 400 S",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.18097,
+        "peak" : -37.82481
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "ENE",
+        "tempF" : 65.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 18.6,
+        "visibilityMi" : 15,
+        "feelslikeF" : 65.5,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.81,
+        "pressureMb" : 1009,
+        "relativeHumidity" : "31%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 58,
+        "tempC" : 18.6,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : 1,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-19T21:20:16-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Walking"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Franklin Elementary",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-04-06T16:42:12-0600",
+              "longitude" : -111.669825,
+              "latitude" : 40.229416,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bc66479db8fa59336589c37"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "Marcos",
+            "natalie landrey",
+            "Sean Brown (null)"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.05,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-19T22:04:40-0600",
+        "longitude" : -111.642876603577,
+        "latitude" : 40.21932088092357,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.99838,
+        "peak" : -39.05635
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ENE",
+        "tempF" : 60.4,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 15.8,
+        "visibilityMi" : 10,
+        "feelslikeF" : 60.4,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.83,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "38%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 76,
+        "tempC" : 15.8,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-19T22:04:35-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Reading"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.25,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-19T22:49:08-0600",
+        "longitude" : -111.6429557965707,
+        "latitude" : 40.21933789806377,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.67927,
+        "peak" : -37.05379
+      },
+      "sectionIdentifier" : "1-2014-5-19",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ENE",
+        "tempF" : 60.4,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 15.8,
+        "visibilityMi" : 10,
+        "feelslikeF" : 60.4,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.83,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "38%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 76,
+        "tempC" : 15.8,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-19T22:49:06-0600",
+      "responses" : [
+        {
+          "numericResponse" : "6",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?",
+          "tokens" : [
+            "Tiffany (dean)",
+            "Lisa (deans sister)"
+          ]
+        },
+        {
+          "numericResponse" : "20023",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "36",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "9.05",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What have you read?",
+          "tokens" : [
+            "The Disposessed"
+          ]
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "Reviews can be taken too far.  "
+        },
+        {
+          "questionPrompt" : "What have you watched?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-20T06:14:31-0600",
+        "longitude" : -111.6428681105838,
+        "latitude" : 40.21931529204348,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.1096,
+        "peak" : -38.92627
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSE",
+        "tempF" : 50.4,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 10.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 50.4,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.86,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "56%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 163,
+        "tempC" : 10.2,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-20T06:14:31-0600",
+      "responses" : [
+        {
+          "numericResponse" : "209",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-20T07:29:39-0600",
+        "longitude" : -111.6430177834782,
+        "latitude" : 40.21939809718081,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -36.7117,
+        "peak" : -35.25681
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "ESE",
+        "tempF" : 51.6,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 10.9,
+        "visibilityMi" : 15,
+        "feelslikeF" : 51.6,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.87,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "55%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 108,
+        "tempC" : 10.9,
+        "weather" : "Scattered Clouds",
+        "uv" : 0.5,
+        "dewpointC" : 2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T07:29:39-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Running"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 46.64185770984042,
+        "timestamp" : "2014-05-20T10:03:53-0600",
+        "longitude" : -111.6578615781375,
+        "latitude" : 40.21045483030954,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.08411,
+        "peak" : -33.3353
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "NW",
+        "tempF" : 59.4,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 15.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 59.4,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.86,
+        "pressureMb" : 1011,
+        "relativeHumidity" : "42%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 323,
+        "tempC" : 15.2,
+        "weather" : "Scattered Clouds",
+        "uv" : 3.3,
+        "dewpointC" : 2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T10:03:48-0600",
+      "responses" : [
+        {
+          "numericResponse" : "8",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Walk"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "Camron Levanger"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 20.2185960436565,
+        "timestamp" : "2014-05-20T11:59:05-0600",
+        "longitude" : -111.6579867593647,
+        "latitude" : 40.21067770210283,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.74556,
+        "peak" : -17.58524
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "SSW",
+        "tempF" : 66,
+        "precipTodayIn" : -999,
+        "windGustKPH" : 12.9,
+        "feelslikeC" : 18.9,
+        "visibilityMi" : 15,
+        "feelslikeF" : 66,
+        "windGustMPH" : 8,
+        "latitude" : 40.20438,
+        "stationID" : "MUTPRV",
+        "pressureIn" : 29.84,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "35%",
+        "longitude" : -111.655693,
+        "windKPH" : 6.4,
+        "windDegrees" : 206,
+        "tempC" : 18.9,
+        "weather" : "Scattered Clouds",
+        "uv" : 9,
+        "dewpointC" : 3,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T11:59:02-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Meeting"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.5,
+      "location" : {
+        "verticalAccuracy" : 19.34864481436216,
+        "timestamp" : "2014-05-20T16:22:38-0600",
+        "longitude" : -111.6580082216998,
+        "latitude" : 40.21068000180993,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.23588,
+        "peak" : -37.81966
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "West",
+        "tempF" : 79,
+        "precipTodayIn" : -999,
+        "windGustKPH" : 19.3,
+        "feelslikeC" : 26.1,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79,
+        "windGustMPH" : 12,
+        "latitude" : 40.20438,
+        "stationID" : "MUTPRV",
+        "pressureIn" : 29.77,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "10%",
+        "longitude" : -111.655693,
+        "windKPH" : 6.4,
+        "windDegrees" : 278,
+        "tempC" : 26.1,
+        "weather" : "Scattered Clouds",
+        "uv" : 7,
+        "dewpointC" : -8,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T16:22:38-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.45,
+      "location" : {
+        "verticalAccuracy" : 47.25106955634708,
+        "timestamp" : "2014-05-20T18:22:17-0600",
+        "longitude" : -111.6624167628682,
+        "latitude" : 40.23243881086894,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 100 S",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Central Business District",
+          "subThoroughfare" : "202–298",
+          "locality" : "Provo",
+          "name" : "202–298 W 100 S",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -36.58591,
+        "peak" : -30.92945
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 9,
+        "windDirection" : "West",
+        "tempF" : 80,
+        "precipTodayIn" : -999,
+        "windGustKPH" : 30.6,
+        "feelslikeC" : 26,
+        "visibilityMi" : 15,
+        "feelslikeF" : 80,
+        "windGustMPH" : 19,
+        "latitude" : 40.20438,
+        "stationID" : "MUTPRV",
+        "pressureIn" : 29.75,
+        "pressureMb" : 1007,
+        "relativeHumidity" : "9%",
+        "longitude" : -111.655693,
+        "windKPH" : 14.5,
+        "windDegrees" : 260,
+        "tempC" : 26.7,
+        "weather" : "Scattered Clouds",
+        "uv" : 3,
+        "dewpointC" : -9,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T18:22:16-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Hanging out"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Brassas",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-07T21:12:13-0600",
+              "longitude" : -111.662756,
+              "latitude" : 40.232588,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4fff167de4b0faeabba7b686"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "natalie landrey",
+            "Marcos"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.3,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-20T19:24:45-0600",
+        "longitude" : -111.66071083085,
+        "latitude" : 40.22610584215001,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 100 W",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Central Business District",
+          "subThoroughfare" : "590",
+          "region" : "<+40.22617561,-111.66076836> radius 31.86",
+          "locality" : "Provo",
+          "name" : "590 S 100 W",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.7021,
+        "peak" : -37.65628
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "WSW",
+        "tempF" : 75.59999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 24.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 75.59999999999999,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.75,
+        "pressureMb" : 1007,
+        "relativeHumidity" : "15%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 246,
+        "tempC" : 24.2,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : -4,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T19:24:42-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Personal project"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Camp 4",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-07T21:12:13-0600",
+              "longitude" : -111.6609051418422,
+              "latitude" : 40.22605225141352,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "519131ae498e24b8cb42c967"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "natalie landrey",
+            "Marcos"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.25,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-20T20:49:16-0600",
+        "longitude" : -111.6429408374802,
+        "latitude" : 40.21935881526209,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -39.21551,
+        "peak" : -34.9735
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SE",
+        "tempF" : 71.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 21.7,
+        "visibilityMi" : 15,
+        "feelslikeF" : 71.09999999999999,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 29.77,
+        "pressureMb" : 1008,
+        "relativeHumidity" : "18%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 142,
+        "tempC" : 21.7,
+        "weather" : "Scattered Clouds",
+        "uv" : 0,
+        "dewpointC" : -4,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-20T20:49:15-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Hanging out"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Deanna Dillard"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.15,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-20T22:17:24-0600",
+        "longitude" : -111.6429353961877,
+        "latitude" : 40.21935066767075,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.5533,
+        "peak" : -38.7202
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SSE",
+        "tempF" : 66.90000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 19.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 66.90000000000001,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.82,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 148,
+        "tempC" : 19.4,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-20T22:17:23-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Reading"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-20T22:52:37-0600",
+        "longitude" : -111.6429149028584,
+        "latitude" : 40.21929073719137,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1105",
+          "region" : "<+40.21926962,-111.64289992> radius 5.13",
+          "locality" : "Provo",
+          "name" : "1105 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.27777,
+        "peak" : -39.14428
+      },
+      "sectionIdentifier" : "1-2014-5-20",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SSE",
+        "tempF" : 66.90000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 19.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 66.90000000000001,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.82,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 148,
+        "tempC" : 19.4,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-20T22:52:37-0600",
+      "responses" : [
+        {
+          "numericResponse" : "6",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "numericResponse" : "16342",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "29",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "7.4",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What have you read?",
+          "tokens" : [
+            "The Disposessed"
+          ]
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "I am scared of my dreams."
+        },
+        {
+          "questionPrompt" : "What have you watched?"
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T06:18:48-0600",
+        "longitude" : -111.6429993549662,
+        "latitude" : 40.21938048868524,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.28598,
+        "peak" : -37.95061
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "date" : "2014-05-21T06:18:47-0600",
+      "responses" : [
+        {
+          "numericResponse" : "208.4",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T07:55:56-0600",
+        "longitude" : -111.6428883408915,
+        "latitude" : 40.21933498151932,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.77446,
+        "peak" : -39.48801
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SSE",
+        "tempF" : 66.90000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 19.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 66.90000000000001,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.82,
+        "pressureMb" : 1010,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 148,
+        "tempC" : 19.4,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T07:55:56-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Breakfast"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-21T10:06:09-0600",
+        "longitude" : -111.6581384931799,
+        "latitude" : 40.21052457861622,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : 0.3600000143051147
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -41.36958,
+        "peak" : -38.36134
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NE",
+        "tempF" : 63.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 17.6,
+        "visibilityMi" : 15,
+        "feelslikeF" : 63.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.93,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "24%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 34,
+        "tempC" : 17.6,
+        "weather" : "Clear",
+        "uv" : 4.1,
+        "dewpointC" : -3,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-21T10:06:08-0600",
+      "responses" : [
+        {
+          "numericResponse" : "8",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.55,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-21T13:12:05-0600",
+        "longitude" : -111.6582824104574,
+        "latitude" : 40.23505396679065,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "E 100 N",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Central Business District",
+          "subThoroughfare" : "2–98",
+          "locality" : "Provo",
+          "name" : "2–98 E 100 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -38.42793,
+        "peak" : -34.00564
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SW",
+        "tempF" : 74.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 13,
+        "feelslikeC" : 23.4,
+        "visibilityMi" : 15,
+        "feelslikeF" : 74.09999999999999,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 8.1,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 236,
+        "tempC" : 23.4,
+        "weather" : "Scattered Clouds",
+        "uv" : 8.4,
+        "dewpointC" : -4,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-21T13:12:04-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Lunch"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Communal",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-08T11:35:39-0600",
+              "longitude" : -111.6585070502358,
+              "latitude" : 40.23517188333334,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b648636f964a520b1ba2ae3"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Dean Cheesman",
+            "Sean Brown (null)",
+            "Camron Levanger",
+            "Kirstie Gardner"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.55,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-21T13:24:38-0600",
+        "longitude" : -111.6634995584485,
+        "latitude" : 40.235335012004,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 100 N",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Timp",
+          "subThoroughfare" : "210",
+          "region" : "<+40.23572909,-111.66307509> radius 90.54",
+          "locality" : "Provo",
+          "name" : "210 W 100 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -35.04235,
+        "peak" : -27.7954
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SW",
+        "tempF" : 74.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 13,
+        "feelslikeC" : 23.4,
+        "visibilityMi" : 15,
+        "feelslikeF" : 74.09999999999999,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 8.1,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 236,
+        "tempC" : 23.4,
+        "weather" : "Scattered Clouds",
+        "uv" : 8.4,
+        "dewpointC" : -4,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-21T13:24:37-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Juice and Java"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Juice 'n Java",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-10T13:32:28-0600",
+              "longitude" : -111.663428,
+              "latitude" : 40.235277,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bd78f6f09ecb713663d477c"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Dean Cheesman",
+            "Sean Brown (null)",
+            "Camron Levanger",
+            "Natalie Willgate",
+            "Melanie Gurule",
+            "Jordan JnJ"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.45,
+      "location" : {
+        "verticalAccuracy" : 38.50385849678737,
+        "timestamp" : "2014-05-21T19:09:40-0600",
+        "longitude" : -111.8038707941084,
+        "latitude" : 40.63525836012976,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "E 6200 S",
+          "postalCode" : "84121",
+          "subAdministrativeArea" : "Salt Lake",
+          "subLocality" : "Salt Lake City",
+          "subThoroughfare" : "3158",
+          "region" : "<+40.63522941,-111.80383856> radius 22.43",
+          "locality" : "Holladay",
+          "name" : "3158 E 6200 S",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -30.97666,
+        "peak" : -23.4455
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "SW",
+        "tempF" : 77.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 25.4,
+        "visibilityMi" : 10,
+        "feelslikeF" : 77.7,
+        "stationID" : "KUTSANDY17",
+        "latitude" : 40.606014,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.75,
+        "pressureMb" : 1007,
+        "relativeHumidity" : "11%",
+        "longitude" : -111.83992,
+        "precipTodayMetric" : 0,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 223,
+        "tempC" : 25.4,
+        "weather" : "Mostly Cloudy",
+        "uv" : 1,
+        "dewpointC" : -7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T19:09:40-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Dinner"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Luna Blanca Taqueria",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-21T19:09:55-0600",
+              "longitude" : -111.803826372377,
+              "latitude" : 40.63519945330984,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "51c37145498e1d212f1f9424"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "Sean Brown (null)",
+            "Katie Christiansen",
+            "natalie landrey"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T23:33:24-0600",
+        "longitude" : -111.6428701819841,
+        "latitude" : 40.21931301405227,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.87873,
+        "peak" : -38.86985
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "North",
+        "tempF" : 63.1,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 17.3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 63.1,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.97,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "26%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 7,
+        "tempC" : 17.3,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T23:33:24-0600",
+      "responses" : [
+        {
+          "numericResponse" : "6",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "numericResponse" : "15044",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "22",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "6.8",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "Talent is hard to work with."
+        },
+        {
+          "questionPrompt" : "What have you watched?"
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        },
+        {
+          "questionPrompt" : "What have you read?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-22T07:00:23-0600",
+        "longitude" : -111.6435751040574,
+        "latitude" : 40.21915177818408,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1122",
+          "region" : "<+40.21880181,-111.64373832> radius 64.89",
+          "locality" : "Provo",
+          "name" : "1122 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : 0.1899999976158142
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.13352,
+        "peak" : -39.10423
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ENE",
+        "tempF" : 50.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 10.4,
+        "visibilityMi" : 15,
+        "feelslikeF" : 50.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 30,
+        "pressureMb" : 1015.8,
+        "relativeHumidity" : "41%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 57,
+        "tempC" : 10.4,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T07:00:22-0600",
+      "responses" : [
+        {
+          "numericResponse" : "210",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 54.17800161850749,
+        "timestamp" : "2014-05-22T10:14:03-0600",
+        "longitude" : -111.657943653081,
+        "latitude" : 40.21061479025101,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.63584,
+        "peak" : -36.41117
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NNE",
+        "tempF" : 65.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.4,
+        "visibilityMi" : 15,
+        "feelslikeF" : 65.09999999999999,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 30.06,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "26%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 16,
+        "tempC" : 18.4,
+        "weather" : "Partly Cloudy",
+        "uv" : 4.1,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T10:14:02-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.65,
+      "location" : {
+        "verticalAccuracy" : 34.53096189076641,
+        "timestamp" : "2014-05-22T12:21:18-0600",
+        "longitude" : -111.6475218250999,
+        "latitude" : 40.24442562718833,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "E 800 N",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Provo-Orem",
+          "subThoroughfare" : "601–699",
+          "locality" : "Provo",
+          "name" : "Brigham Young University",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.00198,
+        "peak" : -36.10193
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "NNW",
+        "tempF" : 72.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.7,
+        "feelslikeC" : 22.4,
+        "visibilityMi" : 15,
+        "feelslikeF" : 72.3,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2.9,
+        "pressureIn" : 30.05,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "21%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 331,
+        "tempC" : 22.4,
+        "weather" : "Scattered Clouds",
+        "uv" : 7.4,
+        "dewpointC" : -1,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T12:21:18-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Lunch"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "slab pizza",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-07T19:43:37-0600",
+              "longitude" : -111.647582,
+              "latitude" : 40.244352,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4b4d238af964a52059cc26e3"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Camron Levanger"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.4,
+      "location" : {
+        "verticalAccuracy" : 4,
+        "timestamp" : "2014-05-22T13:03:55-0600",
+        "longitude" : -111.663551023334,
+        "latitude" : 40.23532457653455,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 100 N",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Timp",
+          "subThoroughfare" : "210",
+          "region" : "<+40.23572909,-111.66307509> radius 90.54",
+          "locality" : "Provo",
+          "name" : "210 W 100 N",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -33.25214,
+        "peak" : -27.26531
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.9,
+        "windDirection" : "WNW",
+        "tempF" : 74.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.7,
+        "feelslikeC" : 23.7,
+        "visibilityMi" : 15,
+        "feelslikeF" : 74.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2.9,
+        "pressureIn" : 30.05,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "17%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 4.7,
+        "windDegrees" : 293,
+        "tempC" : 23.7,
+        "weather" : "Scattered Clouds",
+        "uv" : 7.4,
+        "dewpointC" : -3,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T13:03:55-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Juice and Java"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Juice 'n Java",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-10T13:32:28-0600",
+              "longitude" : -111.663428,
+              "latitude" : 40.235277,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bd78f6f09ecb713663d477c"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Marcos",
+            "Camron Levanger",
+            "Natalie Willgate",
+            "Yoshi Elguera",
+            "Antionette"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.95,
+      "location" : {
+        "verticalAccuracy" : 141.75,
+        "timestamp" : "2014-05-22T17:21:54-0600",
+        "longitude" : -111.6579583886912,
+        "latitude" : 40.21067147504252,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.17843,
+        "peak" : -36.26045
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SE",
+        "tempF" : 81,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 26,
+        "visibilityMi" : 15,
+        "feelslikeF" : 81,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.99,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "10%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 127,
+        "tempC" : 27.2,
+        "weather" : "Scattered Clouds",
+        "uv" : 2.2,
+        "dewpointC" : -7,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T17:21:53-0600",
+      "responses" : [
+        {
+          "numericResponse" : "8",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.8,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-22T18:45:38-0600",
+        "longitude" : -111.7398783099947,
+        "latitude" : 40.29217315841493,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 400 S",
+          "postalCode" : "84058",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Sunset Heights",
+          "subThoroughfare" : "1790",
+          "region" : "<+40.29160180,-111.74031435> radius 303.91",
+          "locality" : "Orem",
+          "name" : "1790 W 400 S",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 5,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -28.9822,
+        "peak" : -28.9822
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 5.225954,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 33,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.1.1",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=89CA3C7B-EEB2-4584-9B32-289076CEAAE9&ext=JPG",
+            "isoSpeed" : 80,
+            "exposureTime" : 0.008333334,
+            "shutterSpeed" : 6.906948,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2014-05-22T17:55:28-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SE",
+        "tempF" : 79.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 12.9,
+        "feelslikeC" : 26.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 79.2,
+        "stationID" : "KUTOREM12",
+        "latitude" : 40.273499,
+        "windGustMPH" : 8,
+        "pressureIn" : 29.98,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.70327,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 134,
+        "tempC" : 26.2,
+        "weather" : "Scattered Clouds",
+        "uv" : 3,
+        "dewpointC" : -2,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T18:45:38-0600",
+      "responses" : [
+        {
+          "numericResponse" : "8",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Frisbee"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Vineyard Park",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-14T19:54:46-0600",
+              "longitude" : -111.7397749479537,
+              "latitude" : 40.29146416663568,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bb540636edc76b059842f1c"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Sean Brown (null)",
+            "Queen",
+            "Lane",
+            "Cameron Wengert",
+            "Matt Palmer",
+            "Adam Black",
+            "Megan Peck",
+            "Tyler Farr"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.65,
+      "location" : {
+        "verticalAccuracy" : 8,
+        "timestamp" : "2014-05-22T20:50:16-0600",
+        "longitude" : -111.6610069480833,
+        "latitude" : 40.22601173728725,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 100 W",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Central Business District",
+          "subThoroughfare" : "590",
+          "region" : "<+40.22617561,-111.66076836> radius 31.86",
+          "locality" : "Provo",
+          "name" : "590 S 100 W",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -28.05582,
+        "peak" : -22.6788
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "ESE",
+        "tempF" : 72,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 11.1,
+        "feelslikeC" : 22.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 72,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 6.9,
+        "pressureIn" : 29.98,
+        "pressureMb" : 1015,
+        "relativeHumidity" : "16%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 106,
+        "tempC" : 22.2,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : -5,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-22T20:50:14-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Dinner"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Camp 4",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-07T21:12:13-0600",
+              "longitude" : -111.6609051418422,
+              "latitude" : 40.22605225141352,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "519131ae498e24b8cb42c967"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Cameron Wengert",
+            "Sean Brown (null)",
+            "Amanda Wengert"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.45,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-22T22:28:21-0600",
+        "longitude" : -111.642903272406,
+        "latitude" : 40.21932735232264,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.26892,
+        "peak" : -39.06977
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SW",
+        "tempF" : 68.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.8,
+        "feelslikeC" : 20.3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 68.5,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 3,
+        "pressureIn" : 30.02,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "20%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 225,
+        "tempC" : 20.3,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -3,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-22T22:28:20-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Reading"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.4,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-22T22:52:01-0600",
+        "longitude" : -111.6426284048092,
+        "latitude" : 40.21918132020237,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.31969,
+        "peak" : -33.30881
+      },
+      "sectionIdentifier" : "1-2014-5-22",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "SW",
+        "tempF" : 68.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.8,
+        "feelslikeC" : 20.3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 68.5,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 3,
+        "pressureIn" : 30.02,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "20%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 225,
+        "tempC" : 20.3,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : -3,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-22T22:52:00-0600",
+      "responses" : [
+        {
+          "numericResponse" : "7",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "questionPrompt" : "What have you read?",
+          "tokens" : [
+            "The Disposessed"
+          ]
+        },
+        {
+          "numericResponse" : "22",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "19072",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "8.62",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "Composer install and update."
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?"
+        },
+        {
+          "questionPrompt" : "What have you watched?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 4,
+        "timestamp" : "2014-05-23T06:55:56-0600",
+        "longitude" : -111.6428718623814,
+        "latitude" : 40.21922453310361,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1105",
+          "region" : "<+40.21921474,-111.64289802> radius 5.01",
+          "locality" : "Provo",
+          "name" : "1105 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 1.720000028610229
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.18701,
+        "peak" : -32.67481
+      },
+      "sectionIdentifier" : "1-2014-5-23",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSW",
+        "tempF" : 55.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 12.9,
+        "visibilityMi" : 10,
+        "feelslikeF" : 55.2,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 30.05,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "50%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 205,
+        "tempC" : 12.9,
+        "weather" : "Partly Cloudy",
+        "uv" : 0,
+        "dewpointC" : 3,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-23T06:55:56-0600",
+      "responses" : [
+        {
+          "numericResponse" : "208.8",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 48.95302276162321,
+        "timestamp" : "2014-05-23T08:50:54-0600",
+        "longitude" : -111.657991095952,
+        "latitude" : 40.21068896162063,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.31908,
+        "peak" : -35.77882
+      },
+      "sectionIdentifier" : "1-2014-5-23",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "NE",
+        "tempF" : 58.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 14.7,
+        "visibilityMi" : 15,
+        "feelslikeF" : 58.5,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 30.01,
+        "pressureMb" : 1016.1,
+        "relativeHumidity" : "49%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 41,
+        "tempC" : 14.7,
+        "weather" : "Mostly Cloudy",
+        "uv" : 0.8,
+        "dewpointC" : 4,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-23T08:50:52-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 19.50936195413427,
+        "timestamp" : "2014-05-23T12:26:20-0600",
+        "longitude" : -111.6630404978053,
+        "latitude" : 40.21770971923889,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Towne Centre Blvd",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1200",
+          "region" : "<+40.21713005,-111.66260404> radius 356.08",
+          "locality" : "Provo",
+          "name" : "Provo Towne Centre",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -34.84689,
+        "peak" : -27.96887
+      },
+      "sectionIdentifier" : "1-2014-5-23",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SSW",
+        "tempF" : 65.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 4.7,
+        "feelslikeC" : 18.7,
+        "visibilityMi" : 15,
+        "feelslikeF" : 65.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2.9,
+        "pressureIn" : 30.05,
+        "pressureMb" : 1017.5,
+        "relativeHumidity" : "40%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 211,
+        "tempC" : 18.7,
+        "weather" : "Overcast",
+        "uv" : 2.1,
+        "dewpointC" : 5,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-23T12:26:20-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Lunch"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "King Kebab",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-23T12:27:11-0600",
+              "longitude" : -111.6635659701253,
+              "latitude" : 40.21835024478709,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "52c617f3498e9246c0e5fece"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Deanna Dillard"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 6,
+        "timestamp" : "2014-05-23T14:38:16-0600",
+        "longitude" : -111.6581658181843,
+        "latitude" : 40.21074594467898,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.01244,
+        "peak" : -34.96536
+      },
+      "sectionIdentifier" : "1-2014-5-23",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SSW",
+        "tempF" : 65.7,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.7,
+        "visibilityMi" : 15,
+        "feelslikeF" : 65.7,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 30.1,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "51%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.4,
+        "windDegrees" : 209,
+        "tempC" : 18.7,
+        "weather" : "Mostly Cloudy",
+        "uv" : 3,
+        "dewpointC" : 8,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-23T14:38:15-0600",
+      "responses" : [
+        {
+          "numericResponse" : "8",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.8,
+      "location" : {
+        "verticalAccuracy" : 48,
+        "timestamp" : "2014-05-23T18:39:01-0600",
+        "longitude" : -111.8929089793115,
+        "latitude" : 40.54607500325939,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S State St",
+          "postalCode" : "84070",
+          "subAdministrativeArea" : "Salt Lake",
+          "subLocality" : "Sandy",
+          "subThoroughfare" : "11300",
+          "region" : "<+40.54650687,-111.89253992> radius 180.07",
+          "locality" : "Sandy",
+          "name" : "11300 S State St",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.40854,
+        "peak" : -36.16816
+      },
+      "sectionIdentifier" : "1-2014-5-23",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "South",
+        "tempF" : 63.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 17.5,
+        "visibilityMi" : 10,
+        "feelslikeF" : 63.5,
+        "stationID" : "KUTSANDY7",
+        "latitude" : 40.581497,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "44%",
+        "longitude" : -111.886314,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 169,
+        "tempC" : 17.5,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : 5,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-23T18:38:58-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Shopping"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Scheels",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-23T18:39:10-0600",
+              "longitude" : -111.8934,
+              "latitude" : 40.546658,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d484467f9522d43a064fcbd"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Deanna Dillard"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-23T18:58:37-0600",
+        "longitude" : -111.8916203958354,
+        "latitude" : 40.5468371118939,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S State St",
+          "postalCode" : "84070",
+          "subAdministrativeArea" : "Salt Lake",
+          "subLocality" : "Sandy",
+          "subThoroughfare" : "11266",
+          "region" : "<+40.54696333,-111.89146614> radius 47.42",
+          "locality" : "Sandy",
+          "name" : "11266 S State St",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -28.53716,
+        "peak" : -22.62495
+      },
+      "sectionIdentifier" : "1-2014-5-23",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "South",
+        "tempF" : 63.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 17.5,
+        "visibilityMi" : 10,
+        "feelslikeF" : 63.5,
+        "stationID" : "KUTSANDY7",
+        "latitude" : 40.581497,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.91,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "44%",
+        "longitude" : -111.886314,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 169,
+        "tempC" : 17.5,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : 5,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-23T18:58:27-0600",
+      "responses" : [
+        {
+          "numericResponse" : "9",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Dinner"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Buffalo Wild Wings",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-23T18:39:10-0600",
+              "longitude" : -111.8916725287724,
+              "latitude" : 40.54674137512348,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "51429480e4b052fd80e8ac63"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Deanna Dillard"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.3,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-24T00:18:24-0600",
+        "longitude" : -111.6427897796206,
+        "latitude" : 40.2192572019523,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -40.43157,
+        "peak" : -23.04095
+      },
+      "sectionIdentifier" : "1-2014-5-24",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NE",
+        "tempF" : 58.3,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 14.6,
+        "visibilityMi" : 10,
+        "feelslikeF" : 58.3,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 30.03,
+        "pressureMb" : 1017,
+        "relativeHumidity" : "63%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 51,
+        "tempC" : 14.6,
+        "weather" : "Clear",
+        "uv" : 0,
+        "dewpointC" : 8,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-24T00:18:24-0600",
+      "responses" : [
+        {
+          "numericResponse" : "6",
+          "questionPrompt" : "How healthy do you feel?"
+        },
+        {
+          "questionPrompt" : "What have you read?"
+        },
+        {
+          "numericResponse" : "19",
+          "questionPrompt" : "How many floors?"
+        },
+        {
+          "numericResponse" : "16834",
+          "questionPrompt" : "How many steps today?"
+        },
+        {
+          "numericResponse" : "7.62",
+          "questionPrompt" : "How many miles"
+        },
+        {
+          "questionPrompt" : "What have you watched?",
+          "tokens" : [
+            "Better off Ted"
+          ]
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "textResponse" : "Nothing"
+        },
+        {
+          "questionPrompt" : "Who did you get to know today?"
+        },
+        {
+          "questionPrompt" : "Have there been any significant events?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.15,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-24T08:25:42-0600",
+        "longitude" : -111.643001950939,
+        "latitude" : 40.21937495136454,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -44.77454,
+        "peak" : -39.04845
+      },
+      "sectionIdentifier" : "1-2014-5-24",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NE",
+        "tempF" : 55.6,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 1.4,
+        "feelslikeC" : 13.1,
+        "visibilityMi" : 15,
+        "feelslikeF" : 55.6,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 0,
+        "pressureIn" : 30.09,
+        "pressureMb" : 1018.8,
+        "relativeHumidity" : "83%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 1,
+        "windKPH" : 0,
+        "windDegrees" : 47,
+        "tempC" : 13.1,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 10,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-24T08:25:41-0600",
+      "responses" : [
+        {
+          "numericResponse" : "209.6",
+          "questionPrompt" : "What did you weigh?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "verticalAccuracy" : 12,
+        "timestamp" : "2014-05-24T11:26:26-0600",
+        "longitude" : -111.7396167946157,
+        "latitude" : 40.29130969665972,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W 400 S",
+          "postalCode" : "84058",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Sunset Heights",
+          "subThoroughfare" : "1830",
+          "region" : "<+40.29075569,-111.73896946> radius 147.08",
+          "locality" : "Orem",
+          "name" : "1830 W 400 S",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -34.40072,
+        "peak" : -31.72343
+      },
+      "sectionIdentifier" : "1-2014-5-24",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "WNW",
+        "tempF" : 59.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 8,
+        "feelslikeC" : 15.3,
+        "visibilityMi" : 15,
+        "feelslikeF" : 59.5,
+        "stationID" : "KUTOREM12",
+        "latitude" : 40.273499,
+        "windGustMPH" : 5,
+        "pressureIn" : 30.1,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "73%",
+        "longitude" : -111.70327,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 282,
+        "tempC" : 15.3,
+        "weather" : "Overcast",
+        "uv" : 3,
+        "dewpointC" : 10,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-24T11:26:22-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Running"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Vineyard Park",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-14T19:54:46-0600",
+              "longitude" : -111.7397749479537,
+              "latitude" : 40.29146416663568,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4bb540636edc76b059842f1c"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-24T13:03:30-0600",
+        "longitude" : -111.6426838073788,
+        "latitude" : 40.21926078804931,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S 900 E",
+          "postalCode" : "84606",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Rings Creek",
+          "subThoroughfare" : "1091–1135",
+          "locality" : "Provo",
+          "name" : "1091–1135 S 900 E",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -57.46463,
+        "peak" : -40.62887
+      },
+      "sectionIdentifier" : "1-2014-5-24",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2.9,
+        "windDirection" : "NW",
+        "tempF" : 62.4,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 7.9,
+        "feelslikeC" : 16.9,
+        "visibilityMi" : 15,
+        "feelslikeF" : 62.4,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 4.9,
+        "pressureIn" : 30.09,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "68%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 1,
+        "windKPH" : 4.7,
+        "windDegrees" : 319,
+        "tempC" : 16.9,
+        "weather" : "Mostly Cloudy",
+        "uv" : 6.5,
+        "dewpointC" : 11,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-24T13:03:28-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Personal project"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home apt",
+            "location" : {
+              "verticalAccuracy" : 6,
+              "timestamp" : "2014-02-06T22:55:48-0600",
+              "longitude" : -111.6429576092508,
+              "latitude" : 40.21921661220511,
+              "course" : 0,
+              "horizontalAccuracy" : 10,
+              "speed" : 0.3400000035762787
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.75,
+      "location" : {
+        "verticalAccuracy" : 21.72860472242969,
+        "timestamp" : "2014-05-24T14:16:06-0600",
+        "longitude" : -111.6662831884782,
+        "latitude" : 40.23384116581521,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "W Center St",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "Central Business District",
+          "subThoroughfare" : "400–480",
+          "locality" : "Provo",
+          "name" : "400–480 W Center St",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -34.85457,
+        "peak" : -25.95036
+      },
+      "sectionIdentifier" : "1-2014-5-24",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0.9,
+        "windDirection" : "SE",
+        "tempF" : 60.1,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 15.6,
+        "visibilityMi" : 15,
+        "feelslikeF" : 60.1,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 2,
+        "pressureIn" : 30.09,
+        "pressureMb" : 1019,
+        "relativeHumidity" : "71%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 1,
+        "windKPH" : 1.4,
+        "windDegrees" : 124,
+        "tempC" : 15.6,
+        "weather" : "Mostly Cloudy",
+        "uv" : 2.2,
+        "dewpointC" : 10,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-24T14:16:05-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Hanging out"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Hruska's Kolaches",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-05-19T19:38:14-0600",
+              "longitude" : -111.666120710801,
+              "latitude" : 40.2338474841752,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "53193715498e764e8f292ce5"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "Chris Crosby",
+            "Eddie King"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 45.64125085158025,
+        "timestamp" : "2014-05-24T15:05:25-0600",
+        "longitude" : -111.6578947480307,
+        "latitude" : 40.2106741130687,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "S University Ave",
+          "postalCode" : "84601",
+          "subAdministrativeArea" : "Utah",
+          "subLocality" : "East Bay",
+          "subThoroughfare" : "1559–1699",
+          "locality" : "Provo",
+          "name" : "1559–1699 S University Ave",
+          "country" : "United States",
+          "administrativeArea" : "UT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -37.32731,
+        "peak" : -34.69792
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 8.936642,
+            "meteringMode" : 5,
+            "focalLengthIn35mm" : 33,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.1.1",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=071B9FBB-F502-4B47-A3EE-11E83F8A58DF&ext=JPG",
+            "isoSpeed" : 50,
+            "exposureTime" : 0.001069519,
+            "shutterSpeed" : 9.868174,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2014-05-24T14:26:56-0600",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sectionIdentifier" : "1-2014-5-24",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 4,
+        "windDirection" : "NNW",
+        "tempF" : 66.59999999999999,
+        "precipTodayIn" : 0.03,
+        "windGustKPH" : 14.3,
+        "feelslikeC" : 19.2,
+        "visibilityMi" : 15,
+        "feelslikeF" : 66.59999999999999,
+        "stationID" : "KUTPROVO5",
+        "latitude" : 40.222717,
+        "windGustMPH" : 8.9,
+        "pressureIn" : 30.07,
+        "pressureMb" : 1018,
+        "relativeHumidity" : "51%",
+        "longitude" : -111.634415,
+        "precipTodayMetric" : 1,
+        "windKPH" : 6.4,
+        "windDegrees" : 333,
+        "tempC" : 19.2,
+        "weather" : "Mostly Cloudy",
+        "uv" : 7.1,
+        "dewpointC" : 9,
+        "visibilityKM" : 24.1
+      },
+      "date" : "2014-05-24T15:05:24-0600",
+      "responses" : [
+        {
+          "numericResponse" : "10",
+          "questionPrompt" : "How happy are you?"
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Personal project"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "InsideSales.com",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T08:45:22-0600",
+              "longitude" : -111.6579997732768,
+              "latitude" : 40.21062997740223,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4d2b651d888af04d63b1dfaf"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Dean Cheesman",
+            "Chris Crosby",
+            "Eddie King"
+          ]
+        }
+      ]
     }
   ],
   "questions" : [
@@ -89804,6 +95880,10 @@
     },
     {
       "prompt" : "Have there been any significant events?"
+    },
+    {
+      "prompt" : "What have you read?",
+      "placeholderString" : ""
     }
   ]
 }
